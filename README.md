@@ -11,8 +11,7 @@
 1. ```npm i```
 2. configure .env.example file and create .env
 3. Create db tables/models from schema.prisma  run ```npx prisma migrate dev```
-4. Create users ```npx prisma db seed```
-5. ```npm run dev```
+4. ```npm run dev```
 
 
 ```npx prisma studio``` to see visualy database
